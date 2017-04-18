@@ -1,6 +1,6 @@
 # GAN
 
-This repository plays around with GAN and its (maybe over 1000?) variations.
+This repository plays around with GAN and its variations.
 
 # Table of files
 
